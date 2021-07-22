@@ -1,7 +1,7 @@
 1. Prerequisites
 apt-get update	
 apt-get upgrade
-             apt-get install bridge-utils
+apt-get install bridge-utils
 2. Creating the Environment
 I) Start the Wireless monitoring Interface on wlan0
 Ifconfig -> to check wlan name
